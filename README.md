@@ -14,18 +14,6 @@ The curriculum covers **11 core engineering modules**, progressing from low-leve
 
 ---
 
----
-
-## 🏗️ Structure of Each Document
-
-Each module report follows a consistent learning and technical-review structure:
-
-1. **Conceptual Overview & Core Principles:** Clear explanations of the topic, key terminology, and how the underlying concepts work.
-2. **Technical Details & Practical Applications:** Examples, workflows, comparisons, and relevant engineering trade-offs.
-3. **Assessment Questions & Key Takeaways:** Important questions, explained answers, common mistakes, and points to remember.
-
----
-
 ## 🚀 Repository Layout
 
 ```text
@@ -43,5 +31,3 @@ Each module report follows a consistent learning and technical-review structure:
     ├── 10_AI_Orchestration.docx
     └── 11_Agent_to_Agent_Communication.docx
 ```
-
-> **Note:** All document links point to the files stored in the `Sprint 1/` folder. Filenames and paths have been checked against the repository.
