@@ -1,7 +1,5 @@
 # EPAM Technical Training & Assessment Portfolio — 
 
-> **Track:** Software & AI Systems Engineering  
-
 ## 📌 Overview
 
 This repository folder (`Sprint 1`) contains structured technical study documentation, architectural notes, practical examples, trade-off analyses, and assessment-readiness material completed as part of the **EPAM Technical Training & Team Cadence Evaluation** program.
