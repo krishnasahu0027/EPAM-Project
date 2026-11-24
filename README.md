@@ -1,4 +1,4 @@
-# EPAM Technical Training & Assessment Portfolio — Sprint 1
+# EPAM Technical Training & Assessment Portfolio — 
 
 > **Track:** Software & AI Systems Engineering  
 > **Submission:** Training & Placement (TNP) Cell  
