@@ -1,4 +1,4 @@
-# EPAM Technical Training & Assessment Portfolio — Sprint 1
+# EPAM Technical Training & Assessment — Sprint 1
 
 ## 📌 Overview
 
@@ -27,33 +27,3 @@ All study modules are organized sequentially inside the `Sprint 1` directory as 
 | **11** | **Agent-to-Agent Communication** | [`11_Agent_to_Agent_Communication.docx`](./11_Agent_to_Agent_Communication.docx) | Communication between independent agents, message structures, shared task context, coordination, handoffs, and reliable collaboration. |
 
 ---
-
-## 🏗️ Structure of Each Document
-
-Each module report follows a consistent learning and technical-review structure:
-
-1. **Conceptual Overview & Core Principles:** Clear explanations of the topic, key terminology, and how the underlying concepts work.
-2. **Technical Details & Practical Applications:** Examples, workflows, comparisons, and relevant engineering trade-offs.
-3. **Assessment Questions & Key Takeaways:** Important questions, explained answers, common mistakes, and points to remember.
-
----
-
-## 🚀 Repository Layout
-
-```text
-├── readme
-└── sprint 1/
-    ├── 01_Instruction_Reordering_and_Memory_Barriers.docx
-    ├── 02_Cache_Line_Bouncing_and_Lock_Free_Scale.docx
-    ├── 03_Python.docx
-    ├── 04_AI_Foundations.docx
-    ├── 05_Prompt_Evaluation.docx
-    ├── 06_AI_Agents.docx
-    ├── 07_Agent_Instruction_Evals.docx
-    ├── 08_Context_Engineering.docx
-    ├── 09_AI_Fluency.docx
-    ├── 10_AI_Orchestration.docx
-    └── 11_Agent_to_Agent_Communication.docx
-```
-
-> **Note:** These links are relative to this README and point to the corresponding documents in the same `Sprint 1/` folder.
